@@ -20,8 +20,7 @@ This Python code creates a simple GUI application using PyQt5. The application i
 
 
 ## Screenshots
-
-![App Screenshot](https://app.gemoo.com/share/image-annotation/596075079472959488?codeId=v6gQ3Jkr7Gywz&origin=screenshotuploader&card=596075077447110656)
+![Screenshot 2023-12-20 202246](https://github.com/TNasifTech/Anki-CSV-file-creator-with-Q-and-A/assets/130967923/a1308cf3-2c30-4b38-a8ac-6bd813fb1534)
 
 
 ## Support
