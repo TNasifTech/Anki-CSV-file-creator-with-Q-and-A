@@ -31,10 +31,10 @@ def save_flashcards():
 
     # Open the CSV file in write mode ('w') so that the file is overwritten each time
     with open(filename, 'w', newline='', encoding='utf-8') as file:  # Add encoding='utf-8' for compatibility
+        writer = csv.writer(file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Write the questions and answers as rows in the CSV file
         for qa in qa_list:
-            file.write(f"{qa[0]},{qa[1]}\n")  # Write both question and answer in the same row, separated by a comma
-
+            writer.writerow(qa)
     # Clear the list of questions and answers
     qa_list.clear()
 
