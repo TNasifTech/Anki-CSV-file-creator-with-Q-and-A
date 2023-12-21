@@ -6,7 +6,7 @@ The Anki CSV file creator is a time-saving tool designed to streamline the proce
 
 
 ## How to use:
-COMING SOON
+https://youtu.be/WeAbAAS6eBg
 ## Features
 
 This Python code creates a simple GUI application using PyQt5. The application is designed to create flashcards for Anki, a popular flashcard software. Here are the main features of this code:
